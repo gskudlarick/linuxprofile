@@ -10,3 +10,6 @@ call pathogen#infect()
 syntax on
 filetype plugin indent on
 
+"" Added to this experiment branch
+set nu "" for line numbers.
+
