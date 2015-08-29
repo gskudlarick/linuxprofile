@@ -1,5 +1,5 @@
-#This is huge.. Very imporant for succwss.
-#Put in your private GIT Repo.
+#This is huge for dealing w/ multiple projects concurrently. 
+#Moved detials top private repo. Keep here for sharing ideas of work effeciency w/ friends, remote teams etc. 
 #Best Practices:  use brew vs. macports.
 
 #TODO:
