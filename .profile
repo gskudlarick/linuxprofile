@@ -114,30 +114,12 @@ alias StaplesPPE='cd /Users/gskudlarick/Documents/Projects/StaplesPPE'
 #Bas Staples
 # scp mysql.sh findEmails.sql jdriscoll@10.61.30.11:/home/JTMGMT/jdriscoll
 # scp *.* john.sebahar@172.16.250.81:/var/bas/images
-alias 81='ssh john.sebahar@172.16.250.81'
-alias 80='ssh john.sebahar@10.90.1.80'
-alias f1b1='ssh gregskudlarick@10.60.70.1'
-#new 1 server as of 09012014
-alias 61='ssh gskudlarick@172.16.250.61' # staples UAT
-alias staplesuat='ssh gskudlarick@172.16.250.61' # staples UAT
-alias 52='ssh integration@172.16.250.52' # integration
-alias integration='ssh integration@172.16.250.52' # integration
+
 
 #Prod
-alias as22=' ssh root@172.16.254.22'
-alias as26=' ssh root@172.16.254.26'
-alias as28=' ssh root@172.16.254.28'
-alias as121=' ssh root@172.16.254.121'
-alias as122=' ssh root@172.16.254.122'
-alias as124=' ssh root@172.16.254.124'
-alias as125=' ssh root@172.16.254.125'
-alias as126=' ssh root@172.16.254.126'
 
-# Other
-alias gila='ssh root@gila'
-#pw Lagune#100 dude..
-# Use davidboyer100/Omega#100
-alias godaddy='ssh gregskudlarick@greenrealestate-investments.net'
+
+
 alias conf='cd /Users/gskudlarick/Dropbox/Documents/Reference/Conferences'
 
 ##############################
@@ -182,7 +164,7 @@ alias au='cd /Users/gskudlarick/Dropbox/Documents/Work/Aurios'
 alias au_static='cd /Users/gskudlarick/dev/projects/aurios/www/static' 
 alias au_src='cd /Users/gskudlarick/dev/projects/aurios/www/aurios' 
 alias au_django='cd /Users/gskudlarick/Dropbox/Documents/Work/Aurios/SWDev/src/www/aurios'
-alias aureus='ssh aureus100@aureusmobil.com'
+
 alias ipm='cd /Users/gskudlarick/dev/projects/ipaymobil' 
 alias ipmDocs='cd /Users/gskudlarick/Dropbox/Documents/Work/iPayMobil' 
 alias spindlegit='cd /Users/gskudlarick/dev/projects/Spindle/GITHUB'
